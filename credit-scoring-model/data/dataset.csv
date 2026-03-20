@@ -1,0 +1,6 @@
+Age,Income,LoanAmount,CreditHistory,Risk
+25,50000,200000,1,Good
+40,60000,250000,0,Bad
+30,45000,180000,1,Good
+35,52000,220000,0,Bad
+28,48000,210000,1,Good
